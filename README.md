@@ -1,6 +1,6 @@
 # 🌟 RepoHub: My Coding Cosmos
 
-Welcome to **RepoHub**—a dazzling showcase of my 60+ GitHub repositories, bursting with innovation and organized with style! From AI breakthroughs to web wonders, this is your portal to explore my coding universe. Buckle up and dive in! 🚀
+Welcome to **RepoHub**—a dazzling showcase of my 50+ GitHub repositories, bursting with innovation and organized with style! From AI breakthroughs to web wonders, this is your portal to explore my coding universe. Buckle up and dive in! 🚀
 
 ![GitHub stars](https://img.shields.io/github/stars/rohanmistry231?label=Star%20RepoHub&style=social) ![GitHub followers](https://img.shields.io/github/followers/rohanmistry231?label=Follow%20Me&style=social)
 
@@ -10,7 +10,7 @@ Welcome to **RepoHub**—a dazzling showcase of my 60+ GitHub repositories, burs
 
 A quick glimpse into my world of code:
 
-- **Total Projects**: 60+ (and soaring higher! ✨)
+- **Total Repositories**: 50+ (and soaring higher! ✨)
 - **Last Refreshed**: April 10, 2025
 - **Mission**: To make my projects shine, easy to find, and inspiring for all!
 
