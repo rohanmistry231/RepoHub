@@ -95,7 +95,7 @@ Building sleek, modern web apps and platforms.
 | [mind-garden-scapes](https://github.com/rohanmistry231/mind-garden-scapes) | Web app for mental wellness | TypeScript | 🟢 Active | 3 | Apr 21, 2025 |
 | [Real-Estate-Website-Project](https://github.com/rohanmistry231/Real-Estate-Website-Project) | Real estate platform | JavaScript | 🟢 Active | 29 | Oct 11, 2024 |
 | [rohanmistry231](https://github.com/rohanmistry231/rohanmistry231) | Personal project showcase | Mixed | 🟢 Active | 31 | May 7, 2025 |
-| [ScholarEu-Backend](https://github.com/rohanmistry231/S SauceEu-Backend) | Backend for scholarship platform | JavaScript | 🟢 Active | 14 | Apr 1, 2025 |
+| [ScholarEu-Backend](https://github.com/rohanmistry231/ScholarEu-Backend) | Backend for scholarship platform | JavaScript | 🟢 Active | 14 | Apr 1, 2025 |
 | [ScholarEu-Frontend](https://github.com/rohanmistry231/ScholarEu-Frontend) | Frontend for scholarship platform | TypeScript | 🟢 Active | 4 | Apr 3, 2025 |
 | [Udemy-Tracker-Backend](https://github.com/rohanmistry231/Udemy-Tracker-Backend) | Backend for course tracker | JavaScript | 🟢 Active | 30 | Nov 30, 2024 |
 | [Udemy-Tracker-Frontend](https://github.com/rohanmistry231/Udemy-Tracker-Frontend) | Course tracking app frontend | JavaScript | 🟢 Active | 30 | Mar 20, 2025 |
